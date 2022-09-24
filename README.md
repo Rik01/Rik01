@@ -10,10 +10,10 @@ Hi there, It's Rik here. I am a financial and data analyst with a strong passion
 
 Contact me at 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/rikchoudhury"target="_blank">
+  <a href="https://www.linkedin.com/in/rikchoudhury/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/choudhury_rik"target="_blank">
+  <a href="https://twitter.com/choudhury_rik/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
